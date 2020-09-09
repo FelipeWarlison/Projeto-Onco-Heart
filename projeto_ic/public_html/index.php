@@ -13,7 +13,6 @@
 
   <!-- bootstrap CSS -->
   <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css\bootstrap-4.4.1-dist\css\bootstrap-grid.min.css">
   <link rel="stylesheet" href="css\bootstrap-4.4.1-dist\css\bootstrap.min.css">
   <link rel="stylesheet" href="css\master.css">
